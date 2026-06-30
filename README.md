@@ -4,7 +4,7 @@ A simple Streamlit app that checks password strength based on length, uppercase 
 
 Live Demo
 
-https://your-app.streamlit.app
+https://passwordstrengthchecker-ahjo8vuv6yef52fpafdw95.streamlit.app/
 
 Features
 
